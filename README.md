@@ -1,4 +1,4 @@
-Beyond_BCS: This is a short review I made which analyse the limits of the Bardeen-Cooper-Shriffer (BCS) Theory in explaining the phenomenon of High Temperature Superconductitivity.
+Beyond BCS: This is a short review I made which analyse the limits of the Bardeen-Cooper-Shriffer (BCS) Theory in explaining the phenomenon of High Temperature Superconductitivity.
 
 Magnetism and Superconductivity: These are Lecture Notes from the course of Magnetism and Superconductivity held by Prof. Ghiringhelli at the Master Degree in Physics Engineering at Politecnico di Milano.
 
