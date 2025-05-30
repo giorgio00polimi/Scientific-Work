@@ -9,3 +9,5 @@ Time Crystals for Students: This is part of a presentation that me and some coll
 Quantum Phenomena in Low Dimensional System: These are Lecture Notes from the course of Quantum Phenomena in Low Dimensional Systems held by Prof. Bussetti at the Master's Degree in Physics Engineering at Politecnico di Milano. The Lecture Notes were written in agreement with the Professor of the course.
 
 EXODIA Article: EXODIA is a device me and a collegue of mine designed to help avoiding food waste. It was designed in the context of the course Digital System Design held by Prof. Salice at the Master's Degree in Physics Engineering at Politecnico di Milano. The device design has been made and printed by us using a CAD software and a 3D printer.  
+
+Paper Thesis: This is a summuary in a paper format (Executive Summary) of my Master's Thesis titled: "An electronic and crystallographic study of a ZnTPP thin film grown on Fe(001)-p(1×1)O/Pd(001)". 
